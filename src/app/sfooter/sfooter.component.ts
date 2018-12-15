@@ -2,8 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-sfooter',
-  templateUrl: './sfooter.component.html',
-  styleUrls: ['./sfooter.component.css']
+  templateUrl: './sfooter.component.html'
 })
 export class SfooterComponent {
 
