@@ -1,0 +1,6 @@
+npm install -g npm-check-updates
+ncu -u
+ng update @angular/cli
+npm install
+
+npm i typescript@3.1.6 --save-dev --save-exact
